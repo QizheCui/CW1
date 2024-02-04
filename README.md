@@ -1,30 +1,22 @@
-# CW1
+# Coursework 1
 
-This is the repository for CW1 for Computing in C++.
+Welcome to the repository for Coursework 1, focused on Computing in C++.
 
-### Prerequisites
+### Introduction
 
-What things you need to install the software and how to install them:
+The solutions for Questions 1-4 are straightforward and are contained within individual files for each question. For Questions 5-8, the solutions are more complex and are split across three files: a main file, a header file, and an implementation file. We utilize the gcc compiler for this coursework.
 
-- A C compiler like gcc
+Prerequisites:
+- A C compiler, such as gcc
 - (Optional) A unit testing library for C, like Check
 
-### Installing
+## Executing the Tests
 
-A step by step series of examples that tell you how to get a development environment running:
+To run the solution for a specific question, for example Question 7, simply enter `./q7` in the command line.
 
-1. Clone the repository to your local machine
-2. Navigate to the directory containing the source code
-3. Compile the source code using gcc
-
-## Running the tests
-
-Explain how to run the automated tests for this system.
-
-## Built With
+## Development Environment
 
 * [C](https://en.wikipedia.org/wiki/C_(programming_language)) - The programming language used
 
-## Authors
-
-* **Your Name** - *Initial work* - [Qizhe Cui](https://github.com/QizheCui)
+## Contributors
+* **Qizhe Cui** - [GitHub Profile](https://github.com/QizheCui)
