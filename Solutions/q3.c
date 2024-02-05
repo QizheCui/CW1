@@ -8,6 +8,10 @@ float large = -INFINITY; // Initialize large to negative infinity
 float small = INFINITY;  // Initialize small to positive infinity
 while (n >= 0){
     printf("Please enter your input:\n"); /* update n */
+    if (!scanf("%f", &n)){
+        printf("Invalid input.\n");
+        return EXIT_FAILURE;
+    }
     scanf("%f", &n); /* update n */
     count += 1;
     // update max and min
