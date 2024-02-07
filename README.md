@@ -14,4 +14,5 @@ Prerequisites:
 To run the solution for a specific question, for example Question 7, simply enter `./q7` in the command line.
 
 ## Contributors
-* **Qizhe Cui** - [GitHub Profile](https://github.com/QizheCui)
+* **Qizhe Cui** (01954652) - qizhe.cui20@imperial.ac.uk - [GitHub Profile](https://github.com/QizheCui)
+* **Kelvin Wu** (01955564) - qikun.wu20@imperial.ac.uk  - [GitHub Profile](https://github.com/kelvin386)
